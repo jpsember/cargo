@@ -1,4 +1,4 @@
-Checkers
+Cargo
 ===========
 
 ![Screen shot.](screenshot.jpg)
